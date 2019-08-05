@@ -1,0 +1,13 @@
+administrator
+http://localhost/login
+admin  123456
+
+user
+http://localhost/client/login
+
+
+Account      1
+password     123456
+name         Jack
+Telephone    13811111111
+....
